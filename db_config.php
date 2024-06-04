@@ -2,7 +2,7 @@
 $db_host = 'localhost';
 $db_name = 'autokauppa';
 $db_username = 'root';
-$db_password = '';
+$db_password = ' ';
 
 $dsn = "mysql:host=$db_host;dbname=$db_name";
 
